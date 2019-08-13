@@ -1,5 +1,5 @@
 # Miscelleneous_Codes
-collection of misc codes
+collection of misc codes which i wrote in python 
 
 # Hangman_game_.py 
 hangman game where player is to guess alphabets of a word (fruit) game involves difficulty,hint,score,no_tries
